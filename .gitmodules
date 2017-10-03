@@ -1,0 +1,9 @@
+[submodule "sources_forked/badwolf"]
+	path = sources_forked/badwolf
+	url = git@github.com:sjl/badwolf.git
+[submodule "sources_forked/targets.vim"]
+    path = sources_forked/targets.vim
+    url = git@github.com:wellle/targets.vim.git
+[submodule "sources_forked/undotree"]
+    path = sources_forked/undotree
+    url = git@github.com:mbbill/undotree.git
