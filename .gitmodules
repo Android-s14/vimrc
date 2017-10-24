@@ -7,3 +7,6 @@
 [submodule "sources_forked/undotree"]
     path = sources_forked/undotree
     url = git@github.com:mbbill/undotree.git
+[submodule "sources_forked/javap-vim"]
+	path = sources_forked/javap-vim
+	url = git@github.com:udalov/javap-vim.git
