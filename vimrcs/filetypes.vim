@@ -57,7 +57,7 @@ endfunction
 au FileType coffee call CoffeeScriptFold()
 
 au FileType gitcommit call setpos('.', [0, 1, 1, 0])
-
+au FileType gitcommit setlocal tw=72
 
 """"""""""""""""""""""""""""""
 " => Shell section
