@@ -10,3 +10,6 @@
 [submodule "sources_forked/javap-vim"]
 	path = sources_forked/javap-vim
 	url = git@github.com:udalov/javap-vim.git
+[submodule "sources_forked/kotlin-vim"]
+	path = sources_forked/kotlin-vim
+	url = git@github.com:udalov/kotlin-vim.git
